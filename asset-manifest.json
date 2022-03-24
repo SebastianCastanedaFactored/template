@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sebastiancastanedafactored.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sebastiancastanedafactored.github.io/static/js/main.59e5671d.chunk.js",
+    "main.js.map": "/sebastiancastanedafactored.github.io/static/js/main.59e5671d.chunk.js.map",
+    "runtime-main.js": "/sebastiancastanedafactored.github.io/static/js/runtime-main.74b44d15.js",
+    "runtime-main.js.map": "/sebastiancastanedafactored.github.io/static/js/runtime-main.74b44d15.js.map",
+    "static/js/2.3812fc01.chunk.js": "/sebastiancastanedafactored.github.io/static/js/2.3812fc01.chunk.js",
+    "static/js/2.3812fc01.chunk.js.map": "/sebastiancastanedafactored.github.io/static/js/2.3812fc01.chunk.js.map",
+    "static/js/3.59bbee02.chunk.js": "/sebastiancastanedafactored.github.io/static/js/3.59bbee02.chunk.js",
+    "static/js/3.59bbee02.chunk.js.map": "/sebastiancastanedafactored.github.io/static/js/3.59bbee02.chunk.js.map",
+    "index.html": "/sebastiancastanedafactored.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sebastiancastanedafactored.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3812fc01.chunk.js.LICENSE.txt": "/sebastiancastanedafactored.github.io/static/js/2.3812fc01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74b44d15.js",
+    "static/js/2.3812fc01.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.59e5671d.chunk.js"
+  ]
+}
